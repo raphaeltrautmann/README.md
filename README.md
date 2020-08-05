@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### Hello there! I`m Raphael
 
-In 2010 I graduated Systems Analyst, but for some reason I decided to switch careers and started studying Architecture and Civil Engineering worked half of my life with project manager/BIM Manager and construction management. I liked but it wasn`t who I am. I always loved technology, so once more I decided to switch careers and focus all my effort in studying what I really like. And I hope some day to change the world or a small part of it with what I do.
+In 2010 I graduated Systems Analyst, but for some reason I decided to switch careers and started studying Architecture and Civil Engineering worked half of my life as project manager/BIM Manager and construction manager. I liked but it wasn`t who I am. I always loved technology, so once more I decided to switch careers and focus all my effort in studying what I really like. And I hope some day to change the world or a small part of it with what I do.
 <br />
 
 #### Hallo! Ich bin Raphael
@@ -36,27 +36,27 @@ In 2010 I graduated Systems Analyst, but for some reason I decided to switch car
 <br />
 
 #### Next in my To Learn List ...
-- React
-- React-Native 
-- Node.js 
-- MongoDB 
-- Python 
-- Arduino
+<img align="left" alt="React" width="26px" src="https://e7.pngegg.com/pngimages/856/564/png-clipart-react-logo-javascript-front-and-back-ends-user-interface-others-miscellaneous-logo-thumbnail.png"/>
+<img align="left" alt="React-Native" width="26px" src="https://e7.pngegg.com/pngimages/831/155/png-clipart-game-react-native-javascript-android-physics-symmetry-web-application-thumbnail.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://e7.pngegg.com/pngimages/477/472/png-clipart-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-thumbnail.png"/>
+<img align="left" alt="MongoDB" width="26px" src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-thumbnail.png"/>
+<img align="left" alt="Python" width="26px" src="https://e7.pngegg.com/pngimages/140/948/png-clipart-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-thumbnail.png"/>
+<img align="left" alt="Arduino" width="26px" src="https://e7.pngegg.com/pngimages/143/1008/png-clipart-arduino-integrated-development-environment-open-source-hardware-computer-software-installation-skin-miscellaneous-electronics-thumbnail.png"/>
 <br />
 
 #### Extra competence ...
 
 - Linux (Server and Networking)
 - UI Designer (Adobe Illustrator and Figma)
-- Image/Video (Adobe Lightroom and Premiere)
-- 3D modeling (Sketchup and Rhinoceros)
+- Image/Video Editing (Adobe Lightroom and Premiere)
+- 3D Modeling (Sketchup and Rhinoceros)
 - BIM (Archicad and Revit)
 <br />
 
 #### Connect with me ...
 
-[<img align="left" alt="CodeSEEKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CodeSEEKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Raphael Trautmann | LinkedIn" width="26px" src="https://e7.pngegg.com/pngimages/93/587/png-clipart-linkedin-logo-linkedin-logo-computer-icons-business-symbol-linkedin-icon-miscellaneous-blue-thumbnail.png" />][linkedin]
+[<img align="left" alt="CodeSEEKr | Instagram" width="28px" src="https://e7.pngegg.com/pngimages/138/961/png-clipart-instagram-logo-logo-sticker-decal-instagram-miscellaneous-text-thumbnail.png" />][instagram]
 <br/>
 ---
 
