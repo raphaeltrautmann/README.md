@@ -44,7 +44,7 @@ In 2010 I graduated Systems Analyst, but for some reason I decided to switch car
 - Arduino
 <br />
 
-#### Extra competence
+#### Extra competence ...
 
 - Linux (Server and Networking)
 - UI Designer (Adobe Illustrator and Figma)
