@@ -36,7 +36,12 @@ In 2010 I graduated Systems Analyst, but for some reason I decided to switch car
 <br />
 
 #### Next in my To Learn List ...
-React, React-Native, Node.js, MongoDB, Python, Arduino
+- React
+- React-Native 
+- Node.js 
+- MongoDB 
+- Python 
+- Arduino
 <br />
 
 #### Extra competence
