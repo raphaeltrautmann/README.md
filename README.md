@@ -27,7 +27,7 @@ In 2010 I graduated Systems Analyst, but for some reason I decided to switch car
 2010 habe ich mein Studium der Systemanalyse abgeschlossen, aber aus irgendeinem Grund habe ich mich entschlossen, meine Karriere zu ändern und Architektur und Bauingenieurwesen zu studieren. Ich habe die Hälfte meines Lebens im Projektmanagement und im Baumanagement gearbeitet. Mir hat gefallen, was ich getan habe, aber es ist nicht wer ich bin. Ich habe Technologie immer geliebt, deshalb habe ich mich erneut entschlossen meine Karriere zu ändern und mich ganz darauf zu konzentrieren zu studieren was mir wirklich gefällt. Und ich hoffe, dass ich eines Tages die Welt oder einen kleinen Teil davon mit dem, was ich tue, verändern kann.
 <br />
 
-#### I’m currently learning ...
+#### I’m currently learning ... At Rocketseat :purple_heart::rocket:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
