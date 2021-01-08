@@ -33,12 +33,12 @@ In 2010 I graduated Systems Analyst, but for some reason I decided to switch car
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://e7.pngegg.com/pngimages/856/564/png-clipart-react-logo-javascript-front-and-back-ends-user-interface-others-miscellaneous-logo-thumbnail.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://e7.pngegg.com/pngimages/477/472/png-clipart-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-thumbnail.png"/>
 <br />
 
 #### Next in my To Learn List ...
-<img align="left" alt="React" width="26px" src="https://e7.pngegg.com/pngimages/856/564/png-clipart-react-logo-javascript-front-and-back-ends-user-interface-others-miscellaneous-logo-thumbnail.png"/>
 <img align="left" alt="React-Native" width="26px" src="https://e7.pngegg.com/pngimages/831/155/png-clipart-game-react-native-javascript-android-physics-symmetry-web-application-thumbnail.png"/>
-<img align="left" alt="Node.js" width="26px" src="https://e7.pngegg.com/pngimages/477/472/png-clipart-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-thumbnail.png"/>
 <img align="left" alt="SQL" width="26px" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-thumbnail.png"/>
 <img align="left" alt="Python" width="26px" src="https://e7.pngegg.com/pngimages/140/948/png-clipart-blue-and-yellow-logo-python-logo-programmer-fierce-python-s-cdr-angle-thumbnail.png"/>
