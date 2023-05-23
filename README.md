@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 In 2010 I graduated Systems Analyst, but for some reason I decided to switch careers and started studying Architecture and Civil Engineering worked half of my life as project manager/BIM Manager and construction manager. I liked but it wasn`t who I am. I always loved technology, so once more I decided to switch careers and focus all my effort in studying what I really like. And I hope some day to change the world or a small part of it with what I do.
 <br />
 
-#### Hallo! Ich bin Raphael
-
-2010 habe ich mein Studium der Systemanalyse abgeschlossen, aber aus irgendeinem Grund habe ich mich entschlossen, meine Karriere zu ändern und Architektur und Bauingenieurwesen zu studieren. Ich habe die Hälfte meines Lebens im Projektmanagement und im Baumanagement gearbeitet. Mir hat gefallen, was ich getan habe, aber es ist nicht wer ich bin. Ich habe Technologie immer geliebt, deshalb habe ich mich erneut entschlossen meine Karriere zu ändern und mich ganz darauf zu konzentrieren zu studieren was mir wirklich gefällt. Und ich hoffe, dass ich eines Tages die Welt oder einen kleinen Teil davon mit dem, was ich tue, verändern kann.
-<br />
-
 #### I’m currently learning ...
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
