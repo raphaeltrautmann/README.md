@@ -42,8 +42,10 @@ In 2010 I graduated Systems Analyst, but for some reason I decided to switch car
 
 #### Extra competence ...
 
-- Linux (Server and Networking)
-- UI Designer (Adobe Illustrator and Figma)
+- Linux Server
+- Network Infrastructure Management
+- Microsoft Dynamics 365 (Functional Consultant and Developer)
+- UI/UX Designer (Adobe Illustrator and Figma)
 - Image/Video Editing (Adobe Lightroom and Premiere)
 - 3D Modeling (Sketchup and Rhinoceros)
 - BIM (Archicad and Revit)
